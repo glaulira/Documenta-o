@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Documentação para Projeto Integrador
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Documentação para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -18,12 +18,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido|
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+|Kick Off | 01/04/2024 | concluido|
+|01 | 15 /04/2024 | em processo|
+|02|  06/05/2024| a fazer |
+|03| 27/05/2024 | a fazer|
+|04| 17/06/2024 |a fazer |
+|Feira de Soluções|27/06/2024 |a fazer |
 
 
 
