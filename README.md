@@ -30,12 +30,12 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo ajudar e facilitar a documentação do projeto visando o setor logistico na area de transporte, visando:
+* Analisar os meio de transportes;
+* Fazer um backlog do projeto com as propostas;
+* Usar o Jira para destribuiçao de tarefas;
+* Desenvolver graficos no Excel sobre os dados;
+* Desenvolver habilidades técnicas sobre os sistemas.
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
@@ -120,13 +120,32 @@ Adicionar video e documentos nessa seção
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+# Equipe
 
-# Autores
+<p align="center">
+ <img style="border-radius: 50%;" src="https://i.imgur.com/mIeM8FK.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/GE4diMy.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/acmBnhk.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/QlV9OR2.png" width="150px;" alt=""/>
+</p>
+<p align="center">
+ <img style="border-radius: 50%;" src="https://i.imgur.com/7JQdW2l.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/HRZ2BKk.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/zOVcvHG.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/DbA2cEh.png" width="150px;" alt=""/>
+</p>
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Pedro Henrique de Oliveira          |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Jaqueline Casado |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Glaucia Lira             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Josué Oller                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Maria de Nazare                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |          |
+| Product Owner |   Diogo Alves      |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KianoKaalin)              |
+| Scrum Master  | Glaucia Lira |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glaucia-lira-681a13187/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/glaulira)     
+| Team Member   |    Amanda Silva         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AmandaSilva25)        |
+|  Team Member  | Denis Teodósio               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/57denis)        |
+|  Team Member  | Kauany Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Kauany162)   |
+|  Team Member  | Rebeca Almeida     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-almeida-85771a176/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/beehalmeida)          |
+|  Team Member  | Romualdo Valença      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romualdo-valen%C3%A7a-672102254/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lsnascimentoo)          |
+|  Team Member  | Victor Euzébio   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rasquis)          |
+
+
+
 
