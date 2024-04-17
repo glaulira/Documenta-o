@@ -102,7 +102,7 @@ Andamento futuro das outras sprints ao longo do semestre:
   
 # Competências desenvolvidas
 
-  Relatorio: [![Relatorio ]()](https://fatecspgov.sharepoint.com/:b:/r/sites/Documentao462/Shared%20Documents/General/Relatorio/Relat%C3%B3rio.pdf?csf=1&web=1&e=JaDZKc)
+  Relatorio: [![Relatorio ]()](https://fatecspgov.sharepoint.com/:b:/r/sites/Documentao462/Shared%20Documents/General/Relatorio/Relat%C3%B3rio.pdf?csf=1&web=1&e=05rKGN)
 
 ## Hard Skill (saber tecnológico)
 <details>
