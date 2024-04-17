@@ -101,7 +101,7 @@ Gáfico de utilização e esforço de tempo nas Sprint:
   
 # Competências desenvolvidas
 
-  Relatorio: [![Relatorio ]()](https://fatecspgov.sharepoint.com/:b:/r/sites/Documentao462/Shared%20Documents/General/Relatorio/Relat%C3%B3rio.pdf?csf=1&web=1&e=05rKGN)
+  Relatorio: [![Relatorio ]()](file:///C:/Users/Fatec/Desktop/Relat%C3%B3rio.pdf)
 
 ## Hard Skill (saber tecnológico)
 <details>
