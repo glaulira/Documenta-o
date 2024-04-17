@@ -136,13 +136,13 @@ Andamento futuro das outras sprints ao longo do semestre:
 # Equipe
 
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.imgur.com/Kp25g1P.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/Xt5u00E.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/xfk3pV1.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/vLHwa5F.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/PfSiUqH.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/2CBfsAd.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/eaPk6L1.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/oUslnP7.png" width="150px;" alt=""/>
 </p>
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.imgur.com/aTALiBK.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/kjRb4W1.png" width="150px;" alt=""/>
 
 </p>
 
