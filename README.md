@@ -131,7 +131,7 @@ Adicionar video e documentos nessa seção
  <img style="border-radius: 50%;" src="https://i.imgur.com/vLHwa5F.png" width="150px;" alt=""/>
 </p>
 <p align="center">
- <img style="border-radius: 50%;" src=" maria " width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/aTALiBK.png" width="150px;" alt=""/>
 
 </p>
 
