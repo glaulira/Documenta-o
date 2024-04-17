@@ -124,15 +124,13 @@ Adicionar video e documentos nessa seção
 
 <p align="center">
  <img style="border-radius: 50%;" src="https://i.imgur.com/Kp25g1P.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/GE4diMy.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/hgtm60f.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/QlV9OR2.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/Xt5u00E.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/xfk3pV1.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/vLHwa5F.png" width="150px;" alt=""/>
 </p>
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.imgur.com/7JQdW2l.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/HRZ2BKk.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/zOVcvHG.png" width="150px;" alt=""/>
- <img style="border-radius: 50%;" src="https://i.imgur.com/DbA2cEh.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src=" maria " width="150px;" alt=""/>
+
 </p>
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
