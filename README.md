@@ -45,6 +45,15 @@ Confira a seguir uma demonstraão das funcionalidades do sistema:
 foto do linha do tempo de entrega e andamento das sprints:
 <img src="https://i.imgur.com/JpDykDy.png"/>
 
+Painel de informaçoes da sprint 1 e 2:
+<img src="https://i.imgur.com/7wDoWrh.png"/>
+
+Gáfico de utilização e esforço de tempo nas Sprint: 
+<img src="https://i.imgur.com/xhSsZEg.png"/>
+
+Andamento futuro das outras sprints ao longo do semestre:
+<img src="https://i.imgur.com/ocLob3t.png"/>
+
 
 ## Tecnologias Utilizadas
 
