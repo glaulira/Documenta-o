@@ -123,7 +123,7 @@ Adicionar video e documentos nessa seção
 # Equipe
 
 <p align="center">
- <img style="border-radius: 50%;" src="https://i.imgur.com/bJFnYUD.png" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://i.imgur.com/Kp25g1P.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/GE4diMy.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/hgtm60f.png" width="150px;" alt=""/>
  <img style="border-radius: 50%;" src="https://i.imgur.com/QlV9OR2.png" width="150px;" alt=""/>
