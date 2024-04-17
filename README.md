@@ -37,12 +37,14 @@ Este projeto tem como objetivo ajudar e facilitar a documentação do projeto vi
 * Desenvolver graficos no Excel sobre os dados;
 * Desenvolver habilidades técnicas sobre os sistemas.
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros (Jira)
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstraão das funcionalidades do sistema:
 
-Adicionar video e documentos nessa seção
+foto do linha do tempo de entrega e andamento das sprints:
+<img src="https://i.imgur.com/JpDykDy.png"/>
+
 
 ## Tecnologias Utilizadas
 
