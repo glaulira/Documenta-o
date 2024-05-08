@@ -1,4 +1,4 @@
-# Documentação para Projeto Integrador
+# Projeto grupo 8
 
 Documentação para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
@@ -20,7 +20,7 @@ Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 01/04/2024 | concluido|
 |01 | 15 /04/2024 | em processo|
-|02|  06/05/2024| a fazer |
+|02|  08/05/2024| a fazer |
 |03| 27/05/2024 | a fazer|
 |04| 17/06/2024 |a fazer |
 |Feira de Soluções|27/06/2024 |a fazer |
@@ -39,34 +39,26 @@ Este projeto tem como objetivo ajudar e facilitar a documentação do projeto vi
 
 # Funcionalidades e registros (Jira)
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades do sistema:
-
-foto do linha do tempo de entrega e andamento das sprints:
-<img src="https://i.imgur.com/uWPmz0D.png"/>
-
-Painel de informaçoes da sprint 1,2,3 e 4:
-<img src="https://i.imgur.com/rDUlMYn.png"/>
-<img src="https://i.imgur.com/WvHbbwo.png"/>
-
-Gáfico de utilização e esforço de tempo nas Sprint: 
-<img src="https://i.imgur.com/xb7Kjh4.png"/>
-
-
-
 ## Tecnologias Utilizadas
 
 * Jira Software
+O Jira oferece ferramentas de planejamento e monitoramento para que as equipes gerenciem dependências, requisitos de funções e interessados desde o primeiro dia. As integrações/implementações contínuas possibilitam a transparência em todo o ciclo de vida do desenvolvimento de software,
+  
 * Microsoft Excel
-* Baclog
+O Excel é uma ferramenta incrivelmente poderosa para tornar significativa uma vasta quantidade de dados. Mas ele também funciona muito bem para cálculos simples e para rastrear de quase todos os tipos de informações.
+  
+* Backlog
+  O backlog de projetos é uma lista de trabalho que serve para organizar e direcionar os esforços da equipe de desenvolvimento. Os itens são priorizados de acordo com a relevância dentro do projeto para que a equipe saiba o que precisa entregar primeiro.
+  
 * Github
+  É um repositório de código, ou seja, um local onde você armazena as pastas e os arquivos que compõem um sistema, de maneira pública ou privada. Nele, ficam centralizados os arquivos para que integrantes de uma equipe tenham acesso online.
   
 
 
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1.
 - [x] Desenvolver o Github;
 - [x] Identifique os elementos principais;
 - [x] Esboço do layout do projeto;
@@ -77,17 +69,17 @@ Gáfico de utilização e esforço de tempo nas Sprint:
 - [ ] Beclog do projet;
 - [ ] Finalização e entrega.
 
-## Sprint 2. Desenvolvimento do Projeto;
+## Sprint 2.
 - [ ] Busca de dados do custo de transporte;
 - [ ] Analise do custo do transporte;
 - [ ] Apresentar esboço do projeto e instruçoes;
 - [ ] Desenvolver graficos com o custo mais viavel.
       
-## Sprint 3 . Implementação
+## Sprint 3 .
 - [ ] Analise da documentação do projeto;
 - [ ] Desenvolver uma otimização do produto;
       
-## Sprint 4. Operacionalização
+## Sprint 4.
 - [ ] Finalização da parte documentativa;
 - [ ] Finalizar o Github,
 - [ ] Concluir o Jira;
