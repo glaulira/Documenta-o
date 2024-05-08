@@ -37,7 +37,7 @@ Este projeto tem como objetivo ajudar e facilitar a documentação do projeto vi
 * Desenvolver graficos no Excel sobre os dados;
 * Desenvolver habilidades técnicas sobre os sistemas.
 
-# Funcionalidades e registros (Jira)
+# Funcionalidades e registros
 
 ## Tecnologias Utilizadas
 
