@@ -93,7 +93,6 @@ O Excel é uma ferramenta incrivelmente poderosa para tornar significativa uma v
   
 # Competências desenvolvidas
 
-  Relatorio: [![Relatorio ]()] 
 
 ## Hard Skill (saber tecnológico)
 <details>
