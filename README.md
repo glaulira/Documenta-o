@@ -39,6 +39,9 @@ Este projeto tem como objetivo ajudar e facilitar a documentação do projeto vi
 
 # Funcionalidades e registros
 
+
+[![Video da funcionalidade](https://studio.youtube.com/video/sgDgGarad5k/edit)](https://youtu.be/sgDgGarad5k)
+
 ## Tecnologias Utilizadas
 
 * Jira Software
@@ -63,17 +66,17 @@ O Excel é uma ferramenta incrivelmente poderosa para tornar significativa uma v
 - [x] Identifique os elementos principais;
 - [x] Esboço do layout do projeto;
 - [x] Repositorio;
-- [ ] Desenvolver o design;
-- [ ] Aplicaçao di sistema Jira;
-- [ ] Teste e revisão;
-- [ ] Beclog do projet;
-- [ ] Finalização e entrega.
+- [x] Desenvolver o design;
+- [x] Aplicaçao di sistema Jira;
+- [x] Teste e revisão;
+- [x] Beclog do projet;
+- [x] Finalização e entrega.
 
 ## Sprint 2.
-- [ ] Busca de dados do custo de transporte;
-- [ ] Analise do custo do transporte;
-- [ ] Apresentar esboço do projeto e instruçoes;
-- [ ] Desenvolver graficos com o custo mais viavel.
+- [x] Busca de dados do custo de transporte;
+- [x] Analise do custo do transporte;
+- [x] Apresentar esboço do projeto e instruçoes;
+- [x] Desenvolver graficos com o custo mais viavel.
       
 ## Sprint 3 .
 - [ ] Analise da documentação do projeto;
